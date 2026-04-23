@@ -1,62 +1,8 @@
 {
   "qq_number": "1657456208",
   "group_number": "1055511657",
-  "updated_at": "2026-04-22T16:19:15.101815",
+  "updated_at": "2026-04-23T15:52:35.551783",
   "skins": [
-    {
-      "name": "怜·少女茶话会进行时",
-      "file": "少女茶话会进行时.bds",
-      "thumb": "少女茶话会进行时.bds_py_26_light_thumb.png",
-      "full": "少女茶话会进行时.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·萌萌魔法厨",
-      "file": "萌萌魔法厨.bds",
-      "thumb": "萌萌魔法厨.bds_py_26_light_thumb.png",
-      "full": "萌萌魔法厨.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·布丁海豹",
-      "file": "布丁海豹.bds",
-      "thumb": "布丁海豹.bds_py_26_light_thumb.png",
-      "full": "布丁海豹.bds_py_26_light.png"
-    },
-    {
-      "name": "羽-世纪之恋",
-      "file": "世纪之恋.bds",
-      "thumb": "世纪之恋.bds_py_26_light_thumb.png",
-      "full": "世纪之恋.bds_py_26_light.png"
-    },
-    {
-      "name": "你说嘴巴嘟嘟",
-      "file": "你说嘴巴嘟嘟.bds",
-      "thumb": "你说嘴巴嘟嘟.bds_py_26_light_thumb.png",
-      "full": "你说嘴巴嘟嘟.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·儚世",
-      "file": "儚世.bds",
-      "thumb": "儚世.bds_py_26_light_thumb.png",
-      "full": "儚世.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·药剂摄取过量",
-      "file": "药剂摄取过量.bds",
-      "thumb": "药剂摄取过量.bds_py_26_light_thumb.png",
-      "full": "药剂摄取过量.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·草莓炸弹人",
-      "file": "草莓炸弹人.bds",
-      "thumb": "草莓炸弹人.bds_py_26_light_thumb.png",
-      "full": "草莓炸弹人.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·Ode to Angles",
-      "file": "OdetoAngles.bds",
-      "thumb": "OdetoAngles.bds_py_26_light_thumb.png",
-      "full": "OdetoAngles.bds_py_26_light.png"
-    },
     {
       "name": "怜·草莓炸弹人",
       "file": "草莓炸弹人.bdi",
@@ -110,6 +56,60 @@
       "file": "世纪之恋.bdi",
       "thumb": "世纪之恋.bdi_py_26_light_thumb.png",
       "full": "世纪之恋.bdi_py_26_light.png"
+    },
+    {
+      "name": "怜·少女茶话会进行时",
+      "file": "少女茶话会进行时.bds",
+      "thumb": "少女茶话会进行时.bds_py_26_light_thumb.png",
+      "full": "少女茶话会进行时.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·萌萌魔法厨",
+      "file": "萌萌魔法厨.bds",
+      "thumb": "萌萌魔法厨.bds_py_26_light_thumb.png",
+      "full": "萌萌魔法厨.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·布丁海豹",
+      "file": "布丁海豹.bds",
+      "thumb": "布丁海豹.bds_py_26_light_thumb.png",
+      "full": "布丁海豹.bds_py_26_light.png"
+    },
+    {
+      "name": "羽-世纪之恋",
+      "file": "世纪之恋.bds",
+      "thumb": "世纪之恋.bds_py_26_light_thumb.png",
+      "full": "世纪之恋.bds_py_26_light.png"
+    },
+    {
+      "name": "你说嘴巴嘟嘟",
+      "file": "你说嘴巴嘟嘟.bds",
+      "thumb": "你说嘴巴嘟嘟.bds_py_26_light_thumb.png",
+      "full": "你说嘴巴嘟嘟.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·儚世",
+      "file": "儚世.bds",
+      "thumb": "儚世.bds_py_26_light_thumb.png",
+      "full": "儚世.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·药剂摄取过量",
+      "file": "药剂摄取过量.bds",
+      "thumb": "药剂摄取过量.bds_py_26_light_thumb.png",
+      "full": "药剂摄取过量.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·草莓炸弹人",
+      "file": "草莓炸弹人.bds",
+      "thumb": "草莓炸弹人.bds_py_26_light_thumb.png",
+      "full": "草莓炸弹人.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·Ode to Angles",
+      "file": "OdetoAngles.bds",
+      "thumb": "OdetoAngles.bds_py_26_light_thumb.png",
+      "full": "OdetoAngles.bds_py_26_light.png"
     }
   ]
 }

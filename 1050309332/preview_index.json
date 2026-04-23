@@ -1,86 +1,8 @@
 {
   "qq_number": "1657456208",
   "group_number": "1050309332",
-  "updated_at": "2026-04-22T16:19:21.413022",
+  "updated_at": "2026-04-23T15:52:38.258946",
   "skins": [
-    {
-      "name": "怜·蕾丝八音盒",
-      "file": "蕾丝八音盒脆.bds",
-      "thumb": "蕾丝八音盒脆.bds_py_26_light_thumb.png",
-      "full": "蕾丝八音盒脆.bds_py_26_light.png"
-    },
-    {
-      "name": "静春絮语",
-      "file": "静春絮语闷.bds",
-      "thumb": "静春絮语闷.bds_py_26_light_thumb.png",
-      "full": "静春絮语闷.bds_py_26_light.png"
-    },
-    {
-      "name": "怜の天国羽烬悲泣之时",
-      "file": "怜の天国羽烬悲泣之时闷.bds",
-      "thumb": "怜の天国羽烬悲泣之时闷.bds_py_26_light_thumb.png",
-      "full": "怜の天国羽烬悲泣之时闷.bds_py_26_light.png"
-    },
-    {
-      "name": "怜の天国羽烬悲泣之时",
-      "file": "怜の天国羽烬悲泣之时脆.bds",
-      "thumb": "怜の天国羽烬悲泣之时脆.bds_py_26_light_thumb.png",
-      "full": "怜の天国羽烬悲泣之时脆.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·Milk Heart",
-      "file": "MilkHeart.bds",
-      "thumb": "MilkHeart.bds_py_26_light_thumb.png",
-      "full": "MilkHeart.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·運命的な恋",
-      "file": "運命のような恋.bds",
-      "thumb": "運命のような恋.bds_py_26_light_thumb.png",
-      "full": "運命のような恋.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "蕾絲製Doll.bds",
-      "thumb": "蕾絲製Doll.bds_py_26_light_thumb.png",
-      "full": "蕾絲製Doll.bds_py_26_light.png"
-    },
-    {
-      "name": "怜の不可遗弃玩偶",
-      "file": "怜の不可遗弃玩偶1.bds",
-      "thumb": "怜の不可遗弃玩偶1.bds_py_26_light_thumb.png",
-      "full": "怜の不可遗弃玩偶1.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·蕾丝八音盒",
-      "file": "蕾丝八音盒闷.bds",
-      "thumb": "蕾丝八音盒闷.bds_py_26_light_thumb.png",
-      "full": "蕾丝八音盒闷.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·柔软安梦 脆",
-      "file": "柔软安梦脆.bds",
-      "thumb": "柔软安梦脆.bds_py_26_light_thumb.png",
-      "full": "柔软安梦脆.bds_py_26_light.png"
-    },
-    {
-      "name": "静春絮语",
-      "file": "静春絮语.bds",
-      "thumb": "静春絮语.bds_py_26_light_thumb.png",
-      "full": "静春絮语.bds_py_26_light.png"
-    },
-    {
-      "name": "圣诞",
-      "file": "灰色日记本.bds",
-      "thumb": "灰色日记本.bds_py_26_light_thumb.png",
-      "full": "灰色日记本.bds_py_26_light.png"
-    },
-    {
-      "name": "怜·柔软安梦 脆",
-      "file": "柔软安梦闷.bds",
-      "thumb": "柔软安梦闷.bds_py_26_light_thumb.png",
-      "full": "柔软安梦闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍底包",
       "file": "蕾絲製Doll.bdi",
@@ -164,6 +86,84 @@
       "file": "静春絮语脆.bdi",
       "thumb": "静春絮语脆.bdi_py_26_light_thumb.png",
       "full": "静春絮语脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "怜·蕾丝八音盒",
+      "file": "蕾丝八音盒脆.bds",
+      "thumb": "蕾丝八音盒脆.bds_py_26_light_thumb.png",
+      "full": "蕾丝八音盒脆.bds_py_26_light.png"
+    },
+    {
+      "name": "静春絮语",
+      "file": "静春絮语闷.bds",
+      "thumb": "静春絮语闷.bds_py_26_light_thumb.png",
+      "full": "静春絮语闷.bds_py_26_light.png"
+    },
+    {
+      "name": "怜の天国羽烬悲泣之时",
+      "file": "怜の天国羽烬悲泣之时闷.bds",
+      "thumb": "怜の天国羽烬悲泣之时闷.bds_py_26_light_thumb.png",
+      "full": "怜の天国羽烬悲泣之时闷.bds_py_26_light.png"
+    },
+    {
+      "name": "怜の天国羽烬悲泣之时",
+      "file": "怜の天国羽烬悲泣之时脆.bds",
+      "thumb": "怜の天国羽烬悲泣之时脆.bds_py_26_light_thumb.png",
+      "full": "怜の天国羽烬悲泣之时脆.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·Milk Heart",
+      "file": "MilkHeart.bds",
+      "thumb": "MilkHeart.bds_py_26_light_thumb.png",
+      "full": "MilkHeart.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·運命的な恋",
+      "file": "運命のような恋.bds",
+      "thumb": "運命のような恋.bds_py_26_light_thumb.png",
+      "full": "運命のような恋.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "蕾絲製Doll.bds",
+      "thumb": "蕾絲製Doll.bds_py_26_light_thumb.png",
+      "full": "蕾絲製Doll.bds_py_26_light.png"
+    },
+    {
+      "name": "怜の不可遗弃玩偶",
+      "file": "怜の不可遗弃玩偶1.bds",
+      "thumb": "怜の不可遗弃玩偶1.bds_py_26_light_thumb.png",
+      "full": "怜の不可遗弃玩偶1.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·蕾丝八音盒",
+      "file": "蕾丝八音盒闷.bds",
+      "thumb": "蕾丝八音盒闷.bds_py_26_light_thumb.png",
+      "full": "蕾丝八音盒闷.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·柔软安梦 脆",
+      "file": "柔软安梦脆.bds",
+      "thumb": "柔软安梦脆.bds_py_26_light_thumb.png",
+      "full": "柔软安梦脆.bds_py_26_light.png"
+    },
+    {
+      "name": "静春絮语",
+      "file": "静春絮语.bds",
+      "thumb": "静春絮语.bds_py_26_light_thumb.png",
+      "full": "静春絮语.bds_py_26_light.png"
+    },
+    {
+      "name": "圣诞",
+      "file": "灰色日记本.bds",
+      "thumb": "灰色日记本.bds_py_26_light_thumb.png",
+      "full": "灰色日记本.bds_py_26_light.png"
+    },
+    {
+      "name": "怜·柔软安梦 脆",
+      "file": "柔软安梦闷.bds",
+      "thumb": "柔软安梦闷.bds_py_26_light_thumb.png",
+      "full": "柔软安梦闷.bds_py_26_light.png"
     }
   ]
 }
