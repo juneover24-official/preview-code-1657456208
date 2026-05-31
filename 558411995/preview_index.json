@@ -1,7 +1,7 @@
 {
   "qq_number": "1657456208",
   "group_number": "558411995",
-  "updated_at": "2026-04-23T15:52:37.569428",
+  "updated_at": "2026-05-31T05:59:54+00:00",
   "skins": [
     {
       "name": "枯雪が降る日",
@@ -122,6 +122,12 @@
       "file": "1_枯雪が降る日.bds",
       "thumb": "1_枯雪が降る日.bds_py_26_light_thumb.png",
       "full": "1_枯雪が降る日.bds_py_26_light.png"
+    },
+    {
+      "name": "天使の保護施設",
+      "file": "天使の保護施設.bdi",
+      "thumb": "天使の保護施設.bdi_py_26_light_thumb.png",
+      "full": "天使の保護施設.bdi_py_26_light_thumb.png"
     }
   ]
 }
