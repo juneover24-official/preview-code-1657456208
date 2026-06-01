@@ -1,13 +1,19 @@
 {
   "qq_number": "1657456208",
   "group_number": "912051335",
+  "updated_at": "2026-06-01T05:14:08+00:00",
   "skins": [
     {
       "name": "聆雪纱2",
       "file": "聆雪纱2.bdi",
       "thumb": "聆雪纱2.bdi_py_26_light_thumb.png",
       "full": "聆雪纱2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "聆雪纱1",
+      "file": "聆雪纱1.bdi",
+      "thumb": "聆雪纱1.bdi_py_26_light_thumb.png",
+      "full": "聆雪纱1.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-01T05:12:51+00:00"
+  ]
 }
