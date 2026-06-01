@@ -1,7 +1,7 @@
 {
   "qq_number": "1657456208",
   "group_number": "912051335",
-  "updated_at": "2026-06-01T08:43:43+00:00",
+  "updated_at": "2026-06-01T08:46:38+00:00",
   "skins": [
     {
       "name": "聆雪纱2",
@@ -68,6 +68,12 @@
       "file": "洋柑桔2.bds",
       "thumb": "洋柑桔2.bds_py_26_light_thumb.png",
       "full": "洋柑桔2.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "羽羽_樱井椿音效2",
+      "file": "樱井椿2.bds",
+      "thumb": "樱井椿2.bds_py_26_light_thumb.png",
+      "full": "樱井椿2.bds_py_26_light_thumb.png"
     }
   ]
 }
