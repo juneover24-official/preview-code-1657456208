@@ -1,7 +1,7 @@
 {
   "qq_number": "1657456208",
   "group_number": "912051335",
-  "updated_at": "2026-06-15T14:10:41+00:00",
+  "updated_at": "2026-06-15T14:11:29+00:00",
   "skins": [
     {
       "name": "聆雪纱2",
@@ -110,6 +110,12 @@
       "file": "乳化甜奶集脆.bdi",
       "thumb": "乳化甜奶集脆.bdi_py_26_light_thumb.png",
       "full": "乳化甜奶集脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乳化甜奶集闷",
+      "file": "乳化甜奶集闷.bdi",
+      "thumb": "乳化甜奶集闷.bdi_py_26_light_thumb.png",
+      "full": "乳化甜奶集闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
