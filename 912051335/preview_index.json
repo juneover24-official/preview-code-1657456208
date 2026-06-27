@@ -1,7 +1,7 @@
 {
   "qq_number": "1657456208",
   "group_number": "912051335",
-  "updated_at": "2026-06-27T03:43:55+00:00",
+  "updated_at": "2026-06-27T03:44:20+00:00",
   "skins": [
     {
       "name": "聆雪纱2",
@@ -140,6 +140,12 @@
       "file": "奶油碗.bdi",
       "thumb": "奶油碗.bdi_py_26_light_thumb.png",
       "full": "奶油碗.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "怜·奶油碗",
+      "file": "奶油碗.bds",
+      "thumb": "奶油碗.bds_py_26_light_thumb.png",
+      "full": "奶油碗.bds_py_26_light_thumb.png"
     }
   ]
 }
