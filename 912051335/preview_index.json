@@ -1,7 +1,7 @@
 {
   "qq_number": "1657456208",
   "group_number": "912051335",
-  "updated_at": "2026-07-07T11:19:46+00:00",
+  "updated_at": "2026-07-07T11:27:55+00:00",
   "skins": [
     {
       "name": "聆雪纱2",
@@ -158,6 +158,12 @@
       "file": "怜少女チーズ.bdi",
       "thumb": "怜少女チーズ.bdi_py_26_light_thumb.png",
       "full": "怜少女チーズ.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "怜·少女のチーズ",
+      "file": "怜少女チーズ融.bds",
+      "thumb": "怜少女チーズ融.bds_py_26_light_thumb.png",
+      "full": "怜少女チーズ融.bds_py_26_light_thumb.png"
     }
   ]
 }
